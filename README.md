@@ -1,3 +1,3 @@
-# rokled-lighting
- Lighting my home w/Rokled outdoor LEDs.  Current project
+# Pixel Lights!!!
+ Lighting my home w/[Pixel Lights](mypixellights.com) outdoor LEDs.  Current project
  photos in the images directory.
